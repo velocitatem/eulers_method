@@ -1,4 +1,9 @@
 #+title: Euler's method
+At the end of my AP Calculus class we developed a python model to demonstrate euler's method. If you are curious about the concept, check [[https://daniel-alves-rosel.netlify.app/kb/20220204103018-linear_approximation.html][this]] out.
+
+
+[[./fig.png]]
+
 * Importing
 #+begin_src python :tangle eulers_method.py
 import numpy as np
